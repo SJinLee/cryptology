@@ -1,1 +1,1 @@
-# cryptology
+# 현대암호학
