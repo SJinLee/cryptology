@@ -1,1 +1,9 @@
 # 현대암호학
+* [https://inventwithpython.com/hacking/](https://inventwithpython.com/hacking/)
+* [https://m.blog.naver.com/hisarms/221632099910](https://m.blog.naver.com/hisarms/221632099910)
+* [https://python-pkcs11.readthedocs.io/en/latest/](https://python-pkcs11.readthedocs.io/en/latest/)
+* [https://inma.tistory.com/145](https://inma.tistory.com/145)
+* [https://devjjsjjj.tistory.com/entry/Cipher-%EC%9E%90%EB%B0%94%EC%9D%98-%EC%95%94%ED%98%B8%ED%99%94%EB%B3%B5%ED%98%B8%ED%99%94%EB%A5%BC-%EB%8B%B4%EB%8B%B9%ED%95%98%EB%8A%94-%ED%81%B4%EB%9E%98%EC%8A%A4-1](https://devjjsjjj.tistory.com/entry/Cipher-%EC%9E%90%EB%B0%94%EC%9D%98-%EC%95%94%ED%98%B8%ED%99%94%EB%B3%B5%ED%98%B8%ED%99%94%EB%A5%BC-%EB%8B%B4%EB%8B%B9%ED%95%98%EB%8A%94-%ED%81%B4%EB%9E%98%EC%8A%A4-1)
+* [https://ko.wikipedia.org/wiki/%EA%B3%B5%EA%B0%9C_%ED%82%A4_%EC%95%94%ED%98%B8_%ED%91%9C%EC%A4%80](https://ko.wikipedia.org/wiki/%EA%B3%B5%EA%B0%9C_%ED%82%A4_%EC%95%94%ED%98%B8_%ED%91%9C%EC%A4%80)
+* [https://gist.github.com/aellerton/2988ff93c7d84f3dbf5b9b5a09f38ceb](https://gist.github.com/aellerton/2988ff93c7d84f3dbf5b9b5a09f38ceb)
+* [https://www.pycryptodome.org/src/protocol/dh](https://www.pycryptodome.org/src/protocol/dh)
